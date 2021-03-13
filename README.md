@@ -7,6 +7,8 @@ These GUI's have no bloat and are designed to be easy to use.
 
 ![image](https://user-images.githubusercontent.com/77796853/111051543-be985500-844b-11eb-903e-6a93b2f545f4.png)
 
+![image](https://user-images.githubusercontent.com/77796853/111051930-b68de480-844e-11eb-993b-0371e4254671.png)
+<sub> A gif of the GUIs being used on Ragdoll Engine. <sub>
 
 # Usage Terms
 
